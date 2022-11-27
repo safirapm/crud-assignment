@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.submit-btn {
+  background-color: #c84b31 !important;
+  border-color: #c84b31 !important;
+  color: #ECDBBA !important;
+}
+
+.submit-btn:hover {
+  background-color: #ECDBBA !important;
+  color: #C84B31 !important;
+}
